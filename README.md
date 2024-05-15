@@ -124,3 +124,4 @@ const profile = {
 };
 console.log(profile)
 */
+! [NODEJS.1](https://raw.githubusercontent.com/sohelmohammed0/DAILLYNOTES/7cabd187cdf6bd18e1ae38a0282f95584f8280d6/JAVA%20SCRIPT.png)
